@@ -1,9 +1,9 @@
-#Capek Buka Siaka Ini Solusinya!!!!
+# Capek Buka Siaka Ini Solusinya!!!!
 
 
 `CARA MENGGUNAKAN:`
 
-#TERMUX
+# TERMUX
 ```shell
 $ pkg install git
 $ pkg install python
@@ -13,7 +13,7 @@ $ cd siaka-dns
 $ pip install -r requirements.txt
 ```
 
-#LINUX 
+# LINUX 
 ```shell
 $ apt install git
 $ apt install python
@@ -31,4 +31,4 @@ python main.py
 ```
 
 ## temukan bug? PM 
-[sini]('https://wa.me/6285173222764')
+[sini](https://wa.me/6285173222764)
