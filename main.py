@@ -2,8 +2,17 @@ from bs4 import BeautifulSoup
 import requests
 from tabulate import tabulate
 
-print("Ispector Siaka By Hardianto!!!!!!")
+print('                                                   made by: ')
+print('\n\n')
+print('                     ██╗  ██╗  █████╗  ██████╗  ██████╗  ██╗  █████╗  ███╗   ██╗ ████████╗  ██████╗')
+print('                     ██║  ██║ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║ ██╔══██╗ ████╗  ██║ ╚══██╔══╝ ██╔═══██╗')
+print('                     ███████║ ███████║ ██████╔╝ ██║  ██║ ██║ ███████║ ██╔██╗ ██║    ██║    ██║   ██║')
+print('                     ██╔══██║ ██╔══██║ ██╔══██╗ ██║  ██║ ██║ ██╔══██║ ██║╚██╗██║    ██║    ██║   ██║')
+print('                     ██║  ██║ ██║  ██║ ██║  ██║ ██████╔╝ ██║ ██║  ██║ ██║ ╚████║    ██║    ╚██████╔╝')
+print('                     ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝    ╚═╝     ╚═════╝')
+print('\n\n')
 
+print('Inspek Nilai Siaka Kalian Sekarang')
 email = int(input('Masukan NIM: '))
 pasw = input('Masukan password: ')
 
